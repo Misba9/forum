@@ -1,7 +1,7 @@
 import Link from "next/link";
 export default function Home() {
   return (
-    <main className="h-screen flex items-center justify-center bg-indigo-600">
+    <main className="h-screen flex items-center justify-center bg-slate-50">
       <div className="bg-white p-6 rounded-lg w-[80%] max-w-md shadow-lg">
         <h3 className="text-black font-bold text-xl mb-4 text-center">
           Sign in to your account
