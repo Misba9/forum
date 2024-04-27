@@ -2,7 +2,7 @@ import Link from "next/link";
 export default function Signup() {
   return (
     <main className="h-screen flex items-center justify-center bg-slate-50">
-      <div className="p-6 rounded-lg w-[80%] max-w-md">
+      <div className="p-6 rounded-lg w-[90%] max-w-md">
         <h3 className="text-black font-bold text-xl mb-4 text-center font-serif">
           Sign Up
         </h3>
